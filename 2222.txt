@@ -1,2 +1,3 @@
-sadfasdfsdvsdvsadvsadvsadvsadv
+sadfasdfsdvsdvsadvsadvsadvsadvsadf③ 새 생성하sadf고 이를 원격 
+sadf저장소에 이름은 sfsadf자유롭게 지정) vsadkvjnlisjdkv
 ④ Main branch와 새롭게 생성한 branch에서 각각 독립적인 작업을 수행하고, 그 결과를 commit & push한다.
